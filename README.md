@@ -1,4 +1,4 @@
-# Red_chat
+# Red chat App
 
 
 What I did:
